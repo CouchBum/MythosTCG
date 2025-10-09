@@ -8,4 +8,4 @@ set GIT="C:\Program Files\Git\cmd\git.exe"
 %GIT% commit -m "Auto commit %date% %time%"
 %GIT% push origin main
 
-pause
+exit
